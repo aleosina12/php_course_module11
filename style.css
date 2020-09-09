@@ -1,0 +1,32 @@
+.card-header {
+        font-family: 'Share Tech Mono', monospace;
+        background-color: lightsalmon;
+}
+
+.card-title {
+      font-size: x-large;
+      font-family: 'Courier New', Courier, monospace;
+}
+
+
+.card-body{
+    font-size: larger;
+background-color: lightgrey;
+
+}
+
+#firstNameOutput{
+    font-size: large;
+background-color: lightgrey;
+
+}
+
+#surnameOutput{
+    font-size: large;
+background-color: lightgrey;
+
+}
+
+.m-0 {
+    background-color: rgb(127, 47, 155);
+}
